@@ -5,11 +5,16 @@
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:FF69B4,100:F8BBD0&height=220&section=header&text=ANUJ%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Development%20%7C%20DSA%20%7C%20Building%20in%20Public&descAlignY=58&descSize=16&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=220&section=header&text=ANUJ%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Development%20%7C%20DSA%20%7C%20Building%20in%20Public&descAlignY=58&descSize=16&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:FF69B4,100:F8BBD0&height=220&section=header&text=ANUJ%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Development%20%7C%20DSA%20%7C%20Building%20in%20Public&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Pink gradient profile banner">
-  </picture>
+<picture>
+  <!-- Dark Mode: Deep vibrant pinks with crisp white text -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B83280,50:D53F8C,100:ED64A6&height=220&section=header&text=ANUJ%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Development%20%7C%20DSA%20%7C%20Building%20in%20Public&descAlignY=58&descSize=16&animation=fadeIn">
+  
+  <!-- Light Mode: Soft pink waves with dark readable text -->
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FBB6CE,50:F687B3,100:ED64A6&height=220&section=header&text=ANUJ%20KUMAR&fontSize=42&fontColor=1A202C&fontAlignY=36&desc=Software%20Development%20%7C%20DSA%20%7C%20Building%20in%20Public&descAlignY=58&descSize=16&animation=fadeIn">
+  
+  <!-- Fallback Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B83280,50:D53F8C,100:ED64A6&height=220&section=header&text=ANUJ%20KUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Development%20%7C%20DSA%20%7C%20Building%20in%20Public&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Anuj Kumar profile banner">
+</picture>
 
   <h1>Hey there, I'm Anuj Kumar 👋</h1>
 
