@@ -45,7 +45,7 @@
         <li>🌐 Building my skills in <strong>full-stack development</strong>, especially JavaScript, TypeScript, React/Next.js, backend development, and databases.</li>
         <li>🧠 Exploring <strong>AI-powered applications</strong> and practical software projects.</li>
         <li>🛠️ Interested in clean code, useful products, maintainable architecture, and solving real problems.</li>
-        <li>🎯 Preparing for software engineering and product-based opportunities while aligning my learning with GATE CSE preparation.</li>
+        <li>🎯 Preparing for software engineering and product-based opportunities.</li>
         <li>🤝 Open to meaningful collaborations, hackathons, and open-source contributions.</li>
       </ul>
       <p><em>My approach: learn the fundamentals, build real things, get feedback, and keep improving.</em></p>
